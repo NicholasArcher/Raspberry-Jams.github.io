@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Random update
+The thread of space tacos continues!
 
 You can use the [editor on GitHub](https://github.com/Raspberry-Jams/Raspberry-Jams.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
